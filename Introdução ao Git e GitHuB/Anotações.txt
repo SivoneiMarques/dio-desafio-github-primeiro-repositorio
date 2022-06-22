@@ -1,0 +1,9 @@
+Link para Download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Após Postrar um Repositório no GitHub, Verificar no Git se esta tudo ok
+Entrar em Pasts Git Bash Here, vai abrir terminal segue sequência de comandos detalhado para verificar se já foi Clonado para Pasta.
+
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+
